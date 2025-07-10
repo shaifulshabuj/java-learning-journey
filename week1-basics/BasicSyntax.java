@@ -1,8 +1,5 @@
-//This is my first Java program
-public class BasicSyntax { // Class declaration
-    public static void main(String[] args) { // Main method
-        System.out.println("Hello, World!"); // Output statement
-
+public class BasicSyntax { 
+    public static void main(String[] args) {
         // 1. Variables and Data Types
         int age = 25;
         double salary = 50000.50;
